@@ -1,0 +1,27 @@
+name = "api"
+main = "./Target/Index.js"
+account_id = "ecc5b1147fe2b96b423abb0717c0a395"
+compatibility_date = "2023-05-18"
+compatibility_flags = ["nodejs_compat"]
+keep_vars = true
+route = { pattern = "api.halle.software", custom_domain = true, zone_name = "halle.software" }
+send_metrics = true
+tsconfig = "./tsconfig.json"
+workers_dev = false
+
+[build]
+command = "npm run prepublishOnly"
+cwd = "."
+watch_dir = "./src"
+
+[dev]
+ip = "127.0.0.1"
+port = 4001
+
+[placement]
+mode = "smart"
+
+[[kv_namespaces]]
+binding = "AccessToken"
+id = "b9d69c16b81d4ef983021632d97497a1"
+preview_id = "ab4360cb3114495696fb770c37396939"
