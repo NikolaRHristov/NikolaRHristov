@@ -1,9 +1,0 @@
-{
-	"compilerOptions": {
-		"lib": ["ESNext"],
-		"outDir": "Target",
-		"types": ["@cloudflare/workers-types", "@types/node"]
-	},
-	"extends": "@lightrix/configuration/Base/TypeScript",
-	"include": ["Source"]
-}
