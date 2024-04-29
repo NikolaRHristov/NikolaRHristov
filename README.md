@@ -210,13 +210,11 @@
 <tr>
 <td colspan=4>
 <h3 align=center>
-<span>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset=https://nikolahristov.tech/Dark/Image/GitHub/Land.svg>
 <source media="(prefers-color-scheme: light)" srcset=https://nikolahristov.tech/Image/GitHub/Land.svg>
 <img alt="" src=https://nikolahristov.tech/Image/GitHub/Land.svg width=28>
-</picture>
-</span> Land —<br>
+</picture> Land —<br>
 </h3>
 </td>
 </tr>
