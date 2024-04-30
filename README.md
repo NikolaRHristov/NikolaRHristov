@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<script type="module" src="/_astro/page.CY1iZwUD.js"></script>
 	<h1>
 		<a href="https://holopin.io/@Nikola" target="_blank"><img alt="@Nikola's Holopin board" src="https://holopin.io/api/user/board?user=Nikola">
 		</a>
