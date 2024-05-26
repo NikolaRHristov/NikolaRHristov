@@ -2,5 +2,3 @@
 Generated from: <a href="https://github.com/NikolaRHristov/Website/blob/Current/Source/pages/Raw/Readme/NikolaRHristov/NikolaRHristov/index.astro" target="_blank">
 NikolaRHristov/Website/blob/Current/Source/pages/Raw/Readme/NikolaRHristov/NikolaRHristov/index.astro
 </a>
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
